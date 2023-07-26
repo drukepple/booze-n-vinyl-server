@@ -1,0 +1,1585 @@
+[
+    {
+        "_id": "62a0dde490a88444ed0515fb",
+        "artist": "The Rolling Stones",
+        "album": "Sticky Fingers",
+        "onHand": true,
+        "ingredientsA": [
+            "629b938b35bca1f4cff5db02",
+            "629d234da2c91cc1ba9e36b1",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94b535bca1f4cff5db0d",
+            "629d23e3a2c91cc1ba9e36c1",
+            "629d237da2c91cc1ba9e36b8"
+        ],
+        "genre": "Rock",
+        "page": 18,
+        "year": 1971
+    },
+    {
+        "_id": "62a0e02c90a88444ed0515fd",
+        "artist": "Led Zeppelin",
+        "album": "IV",
+        "onHand": true,
+        "ingredientsA": [
+            "629b964935bca1f4cff5db1d",
+            "629b93f435bca1f4cff5db04",
+            "62a0dff990a88444ed0515fc",
+            "629d23fba2c91cc1ba9e36c6",
+            "629d242aa2c91cc1ba9e36cd",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2442a2c91cc1ba9e36d0",
+            "629d2448a2c91cc1ba9e36d1",
+            "629d244ba2c91cc1ba9e36d2"
+        ],
+        "ingredientsB": [],
+        "genre": "Rock",
+        "page": 21,
+        "year": 1971
+    },
+    {
+        "_id": "62a0e07490a88444ed0515fe",
+        "artist": "Bruce Springsteen",
+        "album": "Born to Run",
+        "onHand": true,
+        "ingredientsA": [
+            "629d237da2c91cc1ba9e36b8",
+            "629b94ac35bca1f4cff5db0b"
+        ],
+        "ingredientsB": [
+            "629d0714a2c91cc1ba9e369d",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d242da2c91cc1ba9e36ce"
+        ],
+        "genre": "Rock",
+        "page": 25,
+        "year": 1975
+    },
+    {
+        "_id": "62a0e0c690a88444ed0515ff",
+        "artist": "Queen",
+        "album": "A Night At the Opera",
+        "onHand": true,
+        "ingredientsA": [
+            "629b963435bca1f4cff5db1b",
+            "629b961f35bca1f4cff5db18",
+            "629d2301a2c91cc1ba9e36aa",
+            "629d2371a2c91cc1ba9e36b6",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d230ba2c91cc1ba9e36ac",
+            "629d236ba2c91cc1ba9e36b5",
+            "629d23dba2c91cc1ba9e36c0"
+        ],
+        "genre": "Rock",
+        "page": 26,
+        "year": 1975
+    },
+    {
+        "_id": "62a0e10e90a88444ed051600",
+        "artist": "The Ramones",
+        "album": "Ramones",
+        "onHand": false,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23fba2c91cc1ba9e36c6",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "629d2453a2c91cc1ba9e36d4"
+        ],
+        "genre": "Rock",
+        "page": 28,
+        "year": 1976
+    },
+    {
+        "_id": "62a0e22b90a88444ed051601",
+        "artist": "Iggy Pop",
+        "album": "Lust for Life",
+        "onHand": true,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b961f35bca1f4cff5db18",
+            "629d2458a2c91cc1ba9e36d5",
+            "629d245ca2c91cc1ba9e36d6"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d2293a2c91cc1ba9e36a0",
+            "629d23d2a2c91cc1ba9e36be",
+            "629b955e35bca1f4cff5db15"
+        ],
+        "genre": "Rock",
+        "page": 32,
+        "year": 1977
+    },
+    {
+        "_id": "62a0e27090a88444ed051602",
+        "artist": "The Cars",
+        "album": "The Cars",
+        "onHand": true,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b962435bca1f4cff5db19"
+        ],
+        "ingredientsB": [
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d234da2c91cc1ba9e36b1",
+            "629d23e7a2c91cc1ba9e36c2",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "genre": "Rock",
+        "page": 34,
+        "year": 1978
+    },
+    {
+        "_id": "62a0e2d490a88444ed051604",
+        "artist": "The Clash",
+        "album": "London Calling",
+        "onHand": false,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "62a0e29d90a88444ed051603",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "ingredientsB": [
+            "629b93f435bca1f4cff5db04",
+            "629b94a935bca1f4cff5db0a",
+            "629b94ee35bca1f4cff5db14"
+        ],
+        "genre": "Rock",
+        "page": 36,
+        "year": 1979
+    },
+    {
+        "_id": "62a0e34690a88444ed051606",
+        "artist": "Joy Division",
+        "album": "Unknown Pleasures",
+        "onHand": false,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b961f35bca1f4cff5db18",
+            "629d230ea2c91cc1ba9e36ad",
+            "629b955e35bca1f4cff5db15",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b943435bca1f4cff5db05",
+            "629d23eea2c91cc1ba9e36c4",
+            "629d23fea2c91cc1ba9e36c7",
+            "62a0e33790a88444ed051605"
+        ],
+        "genre": "Rock",
+        "page": 38,
+        "year": 1979
+    },
+    {
+        "_id": "62a116dd90a88444ed051608",
+        "artist": "AC/DC",
+        "album": "Back in Black",
+        "onHand": true,
+        "ingredientsA": [
+            "629b938b35bca1f4cff5db02",
+            "629d212ca2c91cc1ba9e369f"
+        ],
+        "ingredientsB": [
+            "629b94a935bca1f4cff5db0a",
+            "629b94c435bca1f4cff5db10",
+            "629b964935bca1f4cff5db1d",
+            "62a1168290a88444ed051607",
+            "629b938b35bca1f4cff5db02",
+            "629b961435bca1f4cff5db16",
+            "629d23eaa2c91cc1ba9e36c3",
+            "62a0e29d90a88444ed051603",
+            "629d23e3a2c91cc1ba9e36c1",
+            "629d23fba2c91cc1ba9e36c6",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "genre": "Rock",
+        "page": 40,
+        "year": 1980
+    },
+    {
+        "_id": "62a117d690a88444ed05160b",
+        "artist": "Beastie Boys",
+        "album": "License to Ill",
+        "onHand": false,
+        "ingredientsA": [
+            "62a1178290a88444ed051609",
+            "629d239aa2c91cc1ba9e36bc"
+        ],
+        "ingredientsB": [
+            "629b94af35bca1f4cff5db0c",
+            "629b961f35bca1f4cff5db18",
+            "629d2301a2c91cc1ba9e36aa",
+            "62a117c890a88444ed05160a",
+            "629d2371a2c91cc1ba9e36b6"
+        ],
+        "genre": "Rock",
+        "page": 42,
+        "year": 1986
+    },
+    {
+        "_id": "62a1185e90a88444ed05160f",
+        "artist": "Guns N' Roses",
+        "album": "Appetite For Destruction",
+        "onHand": true,
+        "ingredientsA": [
+            "629b94ee35bca1f4cff5db14",
+            "62a1180c90a88444ed05160c",
+            "629d23d4a2c91cc1ba9e36bf"
+        ],
+        "ingredientsB": [
+            "62a1183490a88444ed05160d",
+            "629b93f435bca1f4cff5db04",
+            "629b964935bca1f4cff5db1d",
+            "629d23d4a2c91cc1ba9e36bf",
+            "62a1185090a88444ed05160e"
+        ],
+        "genre": "Rock",
+        "page": 44,
+        "year": 1987
+    },
+    {
+        "_id": "62a1193590a88444ed051610",
+        "artist": "Beck",
+        "album": "Odely",
+        "onHand": true,
+        "ingredientsA": [
+            "629b938b35bca1f4cff5db02",
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2408a2c91cc1ba9e36c9"
+        ],
+        "ingredientsB": [
+            "629b938b35bca1f4cff5db02",
+            "629b962435bca1f4cff5db19",
+            "629d22c3a2c91cc1ba9e36a5",
+            "629d2371a2c91cc1ba9e36b6",
+            "629d2404a2c91cc1ba9e36c8"
+        ],
+        "genre": "Rock",
+        "page": 46,
+        "year": 1996
+    },
+    {
+        "_id": "62a1196c90a88444ed051611",
+        "artist": "The White Stripes",
+        "album": "White Blood Cells",
+        "onHand": true,
+        "ingredientsA": [
+            "629b94a935bca1f4cff5db0a",
+            "629d242aa2c91cc1ba9e36cd",
+            "629d23eaa2c91cc1ba9e36c3",
+            "629d2299a2c91cc1ba9e36a1"
+        ],
+        "ingredientsB": [
+            "629b94a935bca1f4cff5db0a"
+        ],
+        "genre": "Rock",
+        "page": 49,
+        "year": 2001
+    },
+    {
+        "_id": "62a1294a90a88444ed051616",
+        "artist": "James Brown",
+        "album": "Live At the Apollo",
+        "onHand": true,
+        "ingredientsA": [
+            "629b94b835bca1f4cff5db0e",
+            "62a11ada90a88444ed051613",
+            "62a11ab290a88444ed051612",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "62a11af990a88444ed051614",
+            "62a11b1190a88444ed051615"
+        ],
+        "genre": "Dance",
+        "page": 58,
+        "year": 1963
+    },
+    {
+        "_id": "62a129a390a88444ed051617",
+        "artist": "Various",
+        "album": "Saturday Night Fever Soundtrack",
+        "onHand": true,
+        "ingredientsA": [
+            "629b94ee35bca1f4cff5db14",
+            "629d2351a2c91cc1ba9e36b2",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23eaa2c91cc1ba9e36c3",
+            "629d2415a2c91cc1ba9e36cb",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "genre": "Dance",
+        "page": 160,
+        "year": 1977,
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a129db90a88444ed051618",
+        "artist": "Blondie",
+        "album": "Parallel Lines",
+        "onHand": true,
+        "ingredientsA": [
+            "629d2351a2c91cc1ba9e36b2",
+            "629d235aa2c91cc1ba9e36b3",
+            "629d244fa2c91cc1ba9e36d3"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d22aca2c91cc1ba9e36a2",
+            "629d230ba2c91cc1ba9e36ac",
+            "629d2376a2c91cc1ba9e36b7",
+            "629d23dba2c91cc1ba9e36c0",
+            "629d2404a2c91cc1ba9e36c8"
+        ],
+        "genre": "Dance",
+        "page": 62,
+        "year": 1978
+    },
+    {
+        "_id": "62a12a2c90a88444ed051619",
+        "artist": "Talking Heads",
+        "album": "Remain in Light",
+        "onHand": true,
+        "ingredientsA": [
+            "629b943435bca1f4cff5db05",
+            "629b947735bca1f4cff5db09",
+            "629d2317a2c91cc1ba9e36af",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2461a2c91cc1ba9e36d7",
+            "629d23fea2c91cc1ba9e36c7",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "ingredientsB": [
+            "629b943935bca1f4cff5db06",
+            "629b965535bca1f4cff5db1e",
+            "629d2393a2c91cc1ba9e36bb",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2408a2c91cc1ba9e36c9",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "genre": "Dance",
+        "page": 66,
+        "year": 1980
+    },
+    {
+        "_id": "62a28bdcf0493086c9f64a63",
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "onHand": true,
+        "genre": "Dance",
+        "year": 1999,
+        "page": 1982,
+        "ingredientsA": [
+            "629b943935bca1f4cff5db06",
+            "629b943b35bca1f4cff5db07",
+            "629d2312a2c91cc1ba9e36ae",
+            "629d234da2c91cc1ba9e36b1",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d2408a2c91cc1ba9e36c9",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d23d4a2c91cc1ba9e36bf"
+        ],
+        "ingredientsB": [
+            "629d2312a2c91cc1ba9e36ae",
+            "629d23dba2c91cc1ba9e36c0",
+            "629d2464a2c91cc1ba9e36d8",
+            "629b961835bca1f4cff5db17",
+            "629d2404a2c91cc1ba9e36c8"
+        ]
+    },
+    {
+        "_id": "62a76e0f3a040926f9ac1c88",
+        "artist": "Madonna",
+        "album": "LIke a Virgin",
+        "onHand": true,
+        "genre": "Dance",
+        "year": 1984,
+        "page": 70,
+        "ingredientsA": [
+            "629b943935bca1f4cff5db06",
+            "62a76deb3a040926f9ac1c87",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629b962435bca1f4cff5db19",
+            "629d22e1a2c91cc1ba9e36a8",
+            "629d23f5a2c91cc1ba9e36c5"
+        ]
+    },
+    {
+        "_id": "62a76e8c3a040926f9ac1c8c",
+        "artist": "Prince",
+        "album": "Purple Rain",
+        "onHand": true,
+        "genre": "Dance",
+        "year": 1984,
+        "page": 74,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629d2301a2c91cc1ba9e36aa",
+            "62a76e403a040926f9ac1c89",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b943935bca1f4cff5db06",
+            "62a76e663a040926f9ac1c8a",
+            "62a76e7b3a040926f9ac1c8b",
+            "629d23d2a2c91cc1ba9e36be",
+            "629b961835bca1f4cff5db17"
+        ]
+    },
+    {
+        "_id": "62a76f0f3a040926f9ac1c90",
+        "artist": "The Pogues",
+        "album": "Rum Sodomy & The Lash",
+        "onHand": false,
+        "genre": "Dance",
+        "year": 1985,
+        "page": 76,
+        "ingredientsA": [
+            "62a76ecd3a040926f9ac1c8d",
+            "62a76ed93a040926f9ac1c8e"
+        ],
+        "ingredientsB": [
+            "62a76efc3a040926f9ac1c8f",
+            "629b962435bca1f4cff5db19",
+            "629d22e1a2c91cc1ba9e36a8",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62a76fdc3a040926f9ac1c94",
+        "artist": "RUN DMC",
+        "album": "Raising Hell",
+        "onHand": false,
+        "genre": "Dance",
+        "year": 1986,
+        "page": 78,
+        "ingredientsA": [
+            "629b94ee35bca1f4cff5db14",
+            "62a76f863a040926f9ac1c92",
+            "62a76f633a040926f9ac1c91",
+            "62a76fb13a040926f9ac1c93",
+            "629b961f35bca1f4cff5db18"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629b943935bca1f4cff5db06",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d2a2c91cc1ba9e36be"
+        ]
+    },
+    {
+        "_id": "62a770463a040926f9ac1c97",
+        "artist": "De La Soul",
+        "album": "3 Feet High and Rising",
+        "onHand": true,
+        "genre": "Dance",
+        "year": 1989,
+        "page": 80,
+        "ingredientsA": [
+            "62a770113a040926f9ac1c95",
+            "62a7701d3a040926f9ac1c96",
+            "629d2431a2c91cc1ba9e36cf",
+            "629d2448a2c91cc1ba9e36d1"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "629b963a35bca1f4cff5db1c",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a7708e3a040926f9ac1c98",
+        "artist": "A Tribe Called Quest",
+        "album": "Low End THeory",
+        "onHand": false,
+        "genre": "Dance",
+        "year": 1991,
+        "page": 82,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b962435bca1f4cff5db19",
+            "629b961f35bca1f4cff5db18",
+            "629d23cfa2c91cc1ba9e36bd"
+        ],
+        "ingredientsB": [
+            "629b964935bca1f4cff5db1d",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d242da2c91cc1ba9e36ce",
+            "629d23f5a2c91cc1ba9e36c5"
+        ]
+    },
+    {
+        "_id": "62a771223a040926f9ac1c9c",
+        "artist": "Brörk",
+        "album": "Debut",
+        "onHand": false,
+        "genre": "Dance",
+        "year": 1993,
+        "page": 84,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b961f35bca1f4cff5db18",
+            "629b955e35bca1f4cff5db15",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2387a2c91cc1ba9e36b9"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "629b94c435bca1f4cff5db10",
+            "62a770d43a040926f9ac1c99",
+            "629d2408a2c91cc1ba9e36c9",
+            "62a770f23a040926f9ac1c9a",
+            "62a771073a040926f9ac1c9b"
+        ]
+    },
+    {
+        "_id": "62a772513a040926f9ac1ca3",
+        "artist": "Lauryn Hill",
+        "album": "The Miseducation of",
+        "onHand": true,
+        "genre": "Dance",
+        "year": 1998,
+        "page": 86,
+        "ingredientsA": [
+            "62a771af3a040926f9ac1c9d",
+            "62a771b83a040926f9ac1c9e",
+            "62a7720a3a040926f9ac1ca2",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d240ea2c91cc1ba9e36ca",
+            "62a771d83a040926f9ac1ca0",
+            "62a771d03a040926f9ac1c9f",
+            "62a771ee3a040926f9ac1ca1",
+            "629d241da2c91cc1ba9e36cc",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "62a76e663a040926f9ac1c8a",
+            "629b943935bca1f4cff5db06",
+            "62a0e29d90a88444ed051603",
+            "629d234da2c91cc1ba9e36b1"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a772d93a040926f9ac1ca6",
+        "artist": "Lady Gaga",
+        "album": "The Fame Monster",
+        "onHand": false,
+        "genre": "Dance",
+        "year": 2009,
+        "page": 89,
+        "ingredientsA": [
+            "629b964935bca1f4cff5db1d",
+            "62a772903a040926f9ac1ca4",
+            "62a772ab3a040926f9ac1ca5",
+            "629d2442a2c91cc1ba9e36d0",
+            "629d2448a2c91cc1ba9e36d1"
+        ],
+        "ingredientsB": [
+            "629d2299a2c91cc1ba9e36a1",
+            "629b961835bca1f4cff5db17",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62a773c03a040926f9ac1cae",
+        "artist": "Elvis",
+        "album": "Christmas Album",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1957,
+        "page": 96,
+        "ingredientsA": [
+            "62a7730b3a040926f9ac1ca7",
+            "62a7731f3a040926f9ac1ca8",
+            "629d23f5a2c91cc1ba9e36c5",
+            "62a7733f3a040926f9ac1ca9",
+            "62a1185090a88444ed05160e",
+            "62a773483a040926f9ac1caa",
+            "629b943435bca1f4cff5db05",
+            "62a773513a040926f9ac1cab"
+        ],
+        "ingredientsB": [
+            "629b964935bca1f4cff5db1d",
+            "62a773703a040926f9ac1cac",
+            "629d235aa2c91cc1ba9e36b3",
+            "62a772ab3a040926f9ac1ca5",
+            "62a773803a040926f9ac1cad"
+        ]
+    },
+    {
+        "_id": "62a773fd3a040926f9ac1caf",
+        "artist": "Robert Johnson",
+        "album": "King of the Delta Blues Singers",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1961,
+        "page": 99,
+        "ingredientsA": [
+            "629b943935bca1f4cff5db06",
+            "629b94ac35bca1f4cff5db0b",
+            "629b964935bca1f4cff5db1d",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d242aa2c91cc1ba9e36cd"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "629d23dba2c91cc1ba9e36c0"
+        ]
+    },
+    {
+        "_id": "62a7746b3a040926f9ac1cb1",
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1967,
+        "page": 102,
+        "ingredientsA": [
+            "629b964935bca1f4cff5db1d",
+            "629d2317a2c91cc1ba9e36af",
+            "629d2301a2c91cc1ba9e36aa",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d2442a2c91cc1ba9e36d0"
+        ],
+        "ingredientsB": [
+            "629b938b35bca1f4cff5db02",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d23fea2c91cc1ba9e36c7",
+            "62a774633a040926f9ac1cb0"
+        ]
+    },
+    {
+        "_id": "62a774e33a040926f9ac1cb4",
+        "artist": "Aretha Franklin",
+        "album": "I Never Loved a Man",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1967,
+        "page": 104,
+        "ingredientsA": [
+            "629b964935bca1f4cff5db1d",
+            "629d2317a2c91cc1ba9e36af",
+            "629d2301a2c91cc1ba9e36aa",
+            "62a7701d3a040926f9ac1c96",
+            "62a774a13a040926f9ac1cb2",
+            "629d2442a2c91cc1ba9e36d0"
+        ],
+        "ingredientsB": [
+            "62a774c93a040926f9ac1cb3",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a775f23a040926f9ac1cb7",
+        "artist": "The Velvet Undergroun & Nico",
+        "album": "",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1999,
+        "page": 106,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629d2301a2c91cc1ba9e36aa",
+            "62a775b93a040926f9ac1cb5",
+            "629d23dba2c91cc1ba9e36c0",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b964935bca1f4cff5db1d",
+            "629d244ba2c91cc1ba9e36d2",
+            "629d2431a2c91cc1ba9e36cf",
+            "62a775e33a040926f9ac1cb6",
+            "629d2442a2c91cc1ba9e36d0"
+        ]
+    },
+    {
+        "_id": "62a776483a040926f9ac1cb9",
+        "artist": "Johnny Cash",
+        "album": "At Folsom Prison",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1968,
+        "page": 110,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "629b94c435bca1f4cff5db10",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23eea2c91cc1ba9e36c4",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b943435bca1f4cff5db05",
+            "62a7763d3a040926f9ac1cb8",
+            "629d2364a2c91cc1ba9e36b4"
+        ]
+    },
+    {
+        "_id": "62a778563a040926f9ac1cbb",
+        "artist": "Simon & Garfunkel",
+        "album": "Bridge Over Troubled Water",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1970,
+        "page": 112,
+        "ingredientsA": [
+            "629b943435bca1f4cff5db05",
+            "629b964935bca1f4cff5db1d",
+            "629d23fba2c91cc1ba9e36c6",
+            "629d242da2c91cc1ba9e36ce",
+            "62a776823a040926f9ac1cba",
+            "629d2408a2c91cc1ba9e36c9",
+            "629b961835bca1f4cff5db17",
+            "62a771ee3a040926f9ac1ca1"
+        ],
+        "ingredientsB": [
+            "629b947735bca1f4cff5db09",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2393a2c91cc1ba9e36bb",
+            "629b961835bca1f4cff5db17",
+            "629d23fea2c91cc1ba9e36c7"
+        ]
+    },
+    {
+        "_id": "62a77a7a3a040926f9ac1cbe",
+        "artist": "Carole King",
+        "album": "Tapestry",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1971,
+        "page": 114,
+        "ingredientsA": [
+            "629b94ee35bca1f4cff5db14",
+            "62a11ada90a88444ed051613",
+            "62a77a333a040926f9ac1cbc",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b964935bca1f4cff5db1d",
+            "62a7720a3a040926f9ac1ca2",
+            "629d23d2a2c91cc1ba9e36be",
+            "62a77a693a040926f9ac1cbd",
+            "629d23fba2c91cc1ba9e36c6",
+            "62a7731f3a040926f9ac1ca8"
+        ]
+    },
+    {
+        "_id": "62a77ad73a040926f9ac1cc0",
+        "artist": "David Bowie",
+        "album": "Ziggy Stardust",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1972,
+        "page": 116,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2387a2c91cc1ba9e36b9",
+            "629b961835bca1f4cff5db17",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b964935bca1f4cff5db1d",
+            "62a77abd3a040926f9ac1cbf",
+            "629b961835bca1f4cff5db17",
+            "629d241da2c91cc1ba9e36cc",
+            "629d2476a2c91cc1ba9e36dc",
+            "629d2415a2c91cc1ba9e36cb",
+            "629d2408a2c91cc1ba9e36c9"
+        ]
+    },
+    {
+        "_id": "62a77b0f3a040926f9ac1cc1",
+        "artist": "Pink Floyd",
+        "album": "Dark Side of the Moon",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1973,
+        "page": 119,
+        "ingredientsA": [
+            "629d244ba2c91cc1ba9e36d2",
+            "629d2468a2c91cc1ba9e36d9",
+            "629b961435bca1f4cff5db16"
+        ],
+        "ingredientsB": [
+            "629b938b35bca1f4cff5db02",
+            "629d22bea2c91cc1ba9e36a4",
+            "629d2308a2c91cc1ba9e36ab",
+            "629d23d2a2c91cc1ba9e36be",
+            "629b93ac35bca1f4cff5db03",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62a780f43a040926f9ac1cc2",
+        "artist": "Tom Waits",
+        "album": "Closing Time",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1973,
+        "page": 124,
+        "ingredientsA": [
+            "629b94a935bca1f4cff5db0a",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d242aa2c91cc1ba9e36cd",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94a935bca1f4cff5db0a",
+            "629d23eea2c91cc1ba9e36c4",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a781523a040926f9ac1cc4",
+        "artist": "Bob Dylan",
+        "album": "Blood On the Tracks",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1975,
+        "page": 126,
+        "ingredientsA": [
+            "629b94af35bca1f4cff5db0c",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2387a2c91cc1ba9e36b9",
+            "629b961435bca1f4cff5db16",
+            "629d23fba2c91cc1ba9e36c6",
+            "629d2415a2c91cc1ba9e36cb"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2393a2c91cc1ba9e36bb",
+            "62a781453a040926f9ac1cc3",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62a7818f3a040926f9ac1cc5",
+        "artist": "The Eagles",
+        "album": "Hotel California",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1976,
+        "page": 128,
+        "ingredientsA": [
+            "629b943935bca1f4cff5db06",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2301a2c91cc1ba9e36aa"
+        ],
+        "ingredientsB": [
+            "629b943935bca1f4cff5db06",
+            "629d241da2c91cc1ba9e36cc",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d23eaa2c91cc1ba9e36c3"
+        ]
+    },
+    {
+        "_id": "62a781bd3a040926f9ac1cc6",
+        "artist": "Jackson Browne",
+        "album": "Running on Empty",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1977,
+        "page": 132,
+        "ingredientsA": [
+            "629b94af35bca1f4cff5db0c",
+            "629d22c3a2c91cc1ba9e36a5",
+            "629b961f35bca1f4cff5db18",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94bf35bca1f4cff5db0f",
+            "629d244ba2c91cc1ba9e36d2",
+            "629d2431a2c91cc1ba9e36cf"
+        ]
+    },
+    {
+        "_id": "62a782213a040926f9ac1cc9",
+        "artist": "Hank Williams",
+        "album": "40 Greatest Hits",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1978,
+        "page": 134,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "62a781fa3a040926f9ac1cc7"
+        ],
+        "ingredientsB": [
+            "62a771073a040926f9ac1c9b",
+            "62a782153a040926f9ac1cc8",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62a782a73a040926f9ac1ccd",
+        "artist": "Bob Marley",
+        "album": "Legend",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1984,
+        "page": 136,
+        "ingredientsA": [
+            "629b943435bca1f4cff5db05",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d234da2c91cc1ba9e36b1",
+            "629d23fea2c91cc1ba9e36c7",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "62a782713a040926f9ac1cca",
+            "629d244ba2c91cc1ba9e36d2",
+            "62a7828a3a040926f9ac1ccb",
+            "62a775e33a040926f9ac1cb6",
+            "629d2442a2c91cc1ba9e36d0",
+            "62a782a23a040926f9ac1ccc"
+        ]
+    },
+    {
+        "_id": "62a783273a040926f9ac1cd1",
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1987,
+        "page": 139,
+        "ingredientsA": [
+            "629b938b35bca1f4cff5db02",
+            "62a782d43a040926f9ac1cce",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d23eea2c91cc1ba9e36c4",
+            "629d23fea2c91cc1ba9e36c7",
+            "62a782df3a040926f9ac1ccf"
+        ],
+        "ingredientsB": [
+            "629b94af35bca1f4cff5db0c",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23dba2c91cc1ba9e36c0",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2393a2c91cc1ba9e36bb",
+            "62a783233a040926f9ac1cd0"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a783643a040926f9ac1cd2",
+        "artist": "R.E.M.",
+        "album": "Automatic For the People",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1992,
+        "page": 141,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "ingredientsB": [
+            "629b94af35bca1f4cff5db0c",
+            "629b955e35bca1f4cff5db15",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d236ba2c91cc1ba9e36b5",
+            "629d242da2c91cc1ba9e36ce",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62a784333a040926f9ac1cd5",
+        "artist": "Nirvana",
+        "album": "MTV Unplugged in New York",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1993,
+        "page": 143,
+        "ingredientsA": [
+            "629b94b835bca1f4cff5db0e",
+            "62a783a53a040926f9ac1cd3",
+            "62a783f93a040926f9ac1cd4",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d242aa2c91cc1ba9e36cd",
+            "62a7733f3a040926f9ac1ca9",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "629d237da2c91cc1ba9e36b8"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62b12b7a6d7855db1f512678",
+        "artist": "Snoop Doggy Dogg",
+        "album": "Doggystyle",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1993,
+        "page": 146,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629d23dba2c91cc1ba9e36c0",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "62b12b586d7855db1f512677",
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d23eaa2c91cc1ba9e36c3",
+            "629d2408a2c91cc1ba9e36c9"
+        ]
+    },
+    {
+        "_id": "62b12bd36d7855db1f512679",
+        "artist": "Buena Vista Social Club",
+        "album": "Buena Vista Social Club",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 1997,
+        "page": 148,
+        "ingredientsA": [
+            "629b943935bca1f4cff5db06",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "ingredientsB": [
+            "629b943b35bca1f4cff5db07",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d241da2c91cc1ba9e36cc",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629b961835bca1f4cff5db17"
+        ]
+    },
+    {
+        "_id": "62b12c156d7855db1f51267a",
+        "artist": "Neutral Milk Hotel",
+        "album": "In the Aeroplane Over the Sea",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1998,
+        "page": 150,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "629d22d8a2c91cc1ba9e36a7",
+            "629d22bea2c91cc1ba9e36a4",
+            "629d23d2a2c91cc1ba9e36be"
+        ],
+        "ingredientsB": [
+            "629b94e235bca1f4cff5db13",
+            "629d2301a2c91cc1ba9e36aa",
+            "629d2364a2c91cc1ba9e36b4",
+            "629b955e35bca1f4cff5db15",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62b12c776d7855db1f51267d",
+        "artist": "Lucinda WIlliams",
+        "album": "Car Wheels On a Gravel Road",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 1998,
+        "page": 152,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "62b12c3d6d7855db1f51267b",
+            "62b12c596d7855db1f51267c",
+            "629d242aa2c91cc1ba9e36cd"
+        ],
+        "ingredientsB": [
+            "629b94a935bca1f4cff5db0a",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d2415a2c91cc1ba9e36cb",
+            "629d23eaa2c91cc1ba9e36c3"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62b12cc26d7855db1f51267e",
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 2002,
+        "page": 154,
+        "ingredientsA": [
+            "629b94ee35bca1f4cff5db14",
+            "629b943935bca1f4cff5db06",
+            "629d231da2c91cc1ba9e36b0",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d246da2c91cc1ba9e36da",
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d23eea2c91cc1ba9e36c4",
+            "629d2408a2c91cc1ba9e36c9"
+        ],
+        "ingredientsB": [
+            "629b94ac35bca1f4cff5db0b"
+        ]
+    },
+    {
+        "_id": "62b12f366d7855db1f51267f",
+        "artist": "Interpol",
+        "album": "Turn on the Bright Lights",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 2002,
+        "page": 158,
+        "ingredientsA": [
+            "629b94af35bca1f4cff5db0c",
+            "629d22d8a2c91cc1ba9e36a7",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d2371a2c91cc1ba9e36b6",
+            "629d2415a2c91cc1ba9e36cb"
+        ],
+        "ingredientsB": [
+            "629b94de35bca1f4cff5db12",
+            "629d22b3a2c91cc1ba9e36a3",
+            "629d23d2a2c91cc1ba9e36be"
+        ]
+    },
+    {
+        "_id": "62b12f686d7855db1f512680",
+        "artist": "Amy Winehouse",
+        "album": "Back to Black",
+        "onHand": true,
+        "genre": "Chill",
+        "year": 2006,
+        "page": 160,
+        "ingredientsA": [
+            "629b961435bca1f4cff5db16",
+            "629d23e3a2c91cc1ba9e36c1",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "ingredientsB": [
+            "629b955e35bca1f4cff5db15",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23eaa2c91cc1ba9e36c3",
+            "629d241da2c91cc1ba9e36cc"
+        ]
+    },
+    {
+        "_id": "62b1300b6d7855db1f512682",
+        "artist": "Vampire Weekend",
+        "album": "Vampire Weekend",
+        "onHand": false,
+        "genre": "Chill",
+        "year": 2008,
+        "page": 162,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b961f35bca1f4cff5db18",
+            "629d22e1a2c91cc1ba9e36a8",
+            "629d2301a2c91cc1ba9e36aa",
+            "62b12fdf6d7855db1f512681",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "ingredientsB": [
+            "629b94ee35bca1f4cff5db14",
+            "62a76e7b3a040926f9ac1c8b",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d23eaa2c91cc1ba9e36c3",
+            "629d23fea2c91cc1ba9e36c7"
+        ]
+    },
+    {
+        "_id": "62b1306d6d7855db1f512683",
+        "artist": "Frank Sinatra",
+        "album": "In the Wee Small Hours",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1955,
+        "page": 168,
+        "ingredientsA": [
+            "629b94af35bca1f4cff5db0c",
+            "629b962435bca1f4cff5db19",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d2415a2c91cc1ba9e36cb"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629b963a35bca1f4cff5db1c",
+            "629d2371a2c91cc1ba9e36b6",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62b1309d6d7855db1f512684",
+        "artist": "Miles Davis",
+        "album": "Kind of Blue",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1959,
+        "page": 172,
+        "ingredientsA": [
+            "629b943435bca1f4cff5db05",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2393a2c91cc1ba9e36bb",
+            "629d2470a2c91cc1ba9e36db"
+        ],
+        "ingredientsB": [
+            "629b94d035bca1f4cff5db11",
+            "629b962435bca1f4cff5db19",
+            "629d2301a2c91cc1ba9e36aa",
+            "629d2371a2c91cc1ba9e36b6",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62b130d76d7855db1f512685",
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1967,
+        "page": 174,
+        "ingredientsA": [
+            "629b943935bca1f4cff5db06",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d23cfa2c91cc1ba9e36bd",
+            "629d246da2c91cc1ba9e36da",
+            "629d2408a2c91cc1ba9e36c9"
+        ],
+        "ingredientsB": [
+            "629b943935bca1f4cff5db06",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d240ea2c91cc1ba9e36ca",
+            "629d23fea2c91cc1ba9e36c7"
+        ]
+    },
+    {
+        "_id": "62b1311a6d7855db1f512686",
+        "artist": "The Doors",
+        "album": "The Doors",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1967,
+        "page": 176,
+        "ingredientsA": [
+            "629b94a935bca1f4cff5db0a",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d23eaa2c91cc1ba9e36c3",
+            "629d23f5a2c91cc1ba9e36c5",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d22e1a2c91cc1ba9e36a8",
+            "629b962d35bca1f4cff5db1a",
+            "629d2371a2c91cc1ba9e36b6"
+        ]
+    },
+    {
+        "_id": "62b1316d6d7855db1f512687",
+        "artist": "Leonard Cohen",
+        "album": "Songs of",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1967,
+        "page": 179,
+        "ingredientsA": [
+            "629b94b835bca1f4cff5db0e",
+            "629d2308a2c91cc1ba9e36ab",
+            "629b962435bca1f4cff5db19",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d230ea2c91cc1ba9e36ad",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2387a2c91cc1ba9e36b9",
+            "629d2470a2c91cc1ba9e36db",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62b131c26d7855db1f51268a",
+        "artist": "Isaac Hayes",
+        "album": "Hot Buttered Soul",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1969,
+        "page": 182,
+        "ingredientsA": [
+            "629b943435bca1f4cff5db05",
+            "62b1318c6d7855db1f512688",
+            "62b1319f6d7855db1f512689",
+            "62a782a23a040926f9ac1ccc",
+            "629d2442a2c91cc1ba9e36d0",
+            "62a773483a040926f9ac1caa",
+            "62a7731f3a040926f9ac1ca8"
+        ],
+        "ingredientsB": [
+            "629b964935bca1f4cff5db1d",
+            "629d2317a2c91cc1ba9e36af",
+            "629d234da2c91cc1ba9e36b1",
+            "62a7701d3a040926f9ac1c96"
+        ]
+    },
+    {
+        "_id": "62b132146d7855db1f51268c",
+        "artist": "Neil Young",
+        "album": "After the Gold Rush",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1970,
+        "page": 185,
+        "ingredientsA": [
+            "629b94ac35bca1f4cff5db0b",
+            "629d23d2a2c91cc1ba9e36be",
+            "629d2393a2c91cc1ba9e36bb"
+        ],
+        "ingredientsB": [
+            "629b94af35bca1f4cff5db0c",
+            "62b132016d7855db1f51268b",
+            "629d238da2c91cc1ba9e36ba",
+            "629d23f5a2c91cc1ba9e36c5"
+        ]
+    },
+    {
+        "_id": "62b132aa6d7855db1f512690",
+        "artist": "Joni Mitchell",
+        "album": "Blue",
+        "onHand": false,
+        "genre": "Seduce",
+        "year": 1971,
+        "page": 186,
+        "ingredientsA": [
+            "62b1323b6d7855db1f51268d",
+            "629d22c3a2c91cc1ba9e36a5",
+            "629d23dba2c91cc1ba9e36c0",
+            "62a7720a3a040926f9ac1ca2",
+            "629d2404a2c91cc1ba9e36c8",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "ingredientsB": [
+            "629d2308a2c91cc1ba9e36ab",
+            "629b961435bca1f4cff5db16",
+            "62a7720a3a040926f9ac1ca2",
+            "629d23d2a2c91cc1ba9e36be",
+            "62b132946d7855db1f51268e",
+            "62b1329b6d7855db1f51268f",
+            "62a782df3a040926f9ac1ccf",
+            "629d23eaa2c91cc1ba9e36c3"
+        ]
+    },
+    {
+        "_id": "62b133296d7855db1f512694",
+        "artist": "Marvin Gaye",
+        "album": "What's Going On",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1971,
+        "page": 188,
+        "ingredientsA": [
+            "62b132d76d7855db1f512691",
+            "629b961f35bca1f4cff5db18",
+            "62b133016d7855db1f512692",
+            "629d239aa2c91cc1ba9e36bc",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629d230ea2c91cc1ba9e36ad",
+            "62b1331e6d7855db1f512693",
+            "62b12c596d7855db1f51267c"
+        ]
+    },
+    {
+        "_id": "62b1338f6d7855db1f512696",
+        "artist": "Al Green",
+        "album": "Greatest Hits",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1975,
+        "page": 192,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629b962435bca1f4cff5db19",
+            "62b133716d7855db1f512695",
+            "629d23f5a2c91cc1ba9e36c5"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d22bea2c91cc1ba9e36a4",
+            "629d2476a2c91cc1ba9e36dc",
+            "629d23fba2c91cc1ba9e36c6"
+        ],
+        "completed": null,
+        "notes": null
+    },
+    {
+        "_id": "62b134606d7855db1f51269d",
+        "artist": "Stevie Wonder",
+        "album": "Songs in the Key of Life",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1976,
+        "page": 194,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "62b133be6d7855db1f512697",
+            "629d2476a2c91cc1ba9e36dc",
+            "62b133ce6d7855db1f512698",
+            "62b133f66d7855db1f51269b",
+            "62b133e26d7855db1f512699",
+            "62b134326d7855db1f51269c",
+            "629d23d2a2c91cc1ba9e36be"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629d22e1a2c91cc1ba9e36a8",
+            "629d23d2a2c91cc1ba9e36be"
+        ]
+    },
+    {
+        "_id": "62b134da6d7855db1f5126a0",
+        "artist": "The Smiths",
+        "album": "The Queen is Dead",
+        "onHand": false,
+        "genre": "Seduce",
+        "year": 1986,
+        "page": 196,
+        "ingredientsA": [
+            "62b134b06d7855db1f51269e",
+            "629d2476a2c91cc1ba9e36dc",
+            "629d23f5a2c91cc1ba9e36c5",
+            "62b134c36d7855db1f51269f",
+            "629b961835bca1f4cff5db17",
+            "629d241da2c91cc1ba9e36cc"
+        ],
+        "ingredientsB": [
+            "629b94c435bca1f4cff5db10",
+            "629b961f35bca1f4cff5db18",
+            "629b955e35bca1f4cff5db15"
+        ]
+    },
+    {
+        "_id": "62b135276d7855db1f5126a2",
+        "artist": "The Cure",
+        "album": "Disintegration",
+        "onHand": false,
+        "genre": "Seduce",
+        "year": 1989,
+        "page": 200,
+        "ingredientsA": [
+            "62b135076d7855db1f5126a1",
+            "62a771073a040926f9ac1c9b",
+            "629d23d2a2c91cc1ba9e36be",
+            "62a770d43a040926f9ac1c99"
+        ],
+        "ingredientsB": [
+            "62a782d43a040926f9ac1cce",
+            "629b961435bca1f4cff5db16",
+            "629b961835bca1f4cff5db17"
+        ]
+    },
+    {
+        "_id": "62b135566d7855db1f5126a3",
+        "artist": "Radiohead",
+        "album": "OK Computer",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 1997,
+        "page": 202,
+        "ingredientsA": [
+            "629b94b835bca1f4cff5db0e",
+            "629b962435bca1f4cff5db19",
+            "629d2371a2c91cc1ba9e36b6",
+            "629b955e35bca1f4cff5db15",
+            "629d234da2c91cc1ba9e36b1"
+        ],
+        "ingredientsB": [
+            "629d247ba2c91cc1ba9e36dd",
+            "629b94ac35bca1f4cff5db0b",
+            "629d2364a2c91cc1ba9e36b4",
+            "629d242da2c91cc1ba9e36ce",
+            "629d23fba2c91cc1ba9e36c6"
+        ]
+    },
+    {
+        "_id": "62b135876d7855db1f5126a4",
+        "artist": "Bon Iver",
+        "album": "For Emma, Forever Ago",
+        "onHand": true,
+        "genre": "Seduce",
+        "year": 2007,
+        "page": 204,
+        "ingredientsA": [
+            "629b94c435bca1f4cff5db10",
+            "629d22e1a2c91cc1ba9e36a8",
+            "629d2301a2c91cc1ba9e36aa",
+            "629d23d4a2c91cc1ba9e36bf",
+            "629d23fea2c91cc1ba9e36c7"
+        ],
+        "ingredientsB": [
+            "629b961435bca1f4cff5db16",
+            "629b94af35bca1f4cff5db0c",
+            "629d238da2c91cc1ba9e36ba"
+        ]
+    }
+]
